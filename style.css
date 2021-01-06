@@ -34,3 +34,7 @@ h3{
 p{
     padding: 40px 0px;
 }
+.pic-set{
+    width: 25%;
+    float: left;
+}
